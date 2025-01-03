@@ -1,2 +1,10 @@
-# ReNile_TrafficLights
-ReNile task (Traffic light system) controlled by stm32f401 "Black Pill" board 
+# ReNile 
+- HW Connection
+	- Components used
+	- Design (KiCad Design ) #HINT : Black pill component.
+- SW Architecture 
+	- Brief about system 
+	- FSM (define states) and transitions between each other
+	- Interrupt button (handler).
+
+################################ Code Commented #########################################
